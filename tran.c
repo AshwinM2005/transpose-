@@ -30,7 +30,7 @@ int main()
         printf("\n");
     }
 
- transpose (t, x, );
+ transpose (t, x, a, b);
 
     return 0;
 }
